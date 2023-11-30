@@ -1,4 +1,4 @@
-### Hi there 👋
+### hello, I am Paulo Sanguli 👋
 
 <!--
 **PauloSanguli/PauloSanguli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-----
+
+##About me
+
+I am programer, more concretely, i am a dev junior, i like solve problems, and i like 
+so mutch create things, that the peoples needs.
+
+-----
