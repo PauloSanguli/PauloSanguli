@@ -23,6 +23,13 @@ Sou apaixonado por resolver problemas com código e criar soluções inteligente
 
 ---
 
+## 📊 Minhas Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulosanguli&show_icons=true&theme=radical)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=paulosanguli&layout=compact&theme=radical)  
+
+---
+
 ## 🤝 Vamos Conectar!
 
 Gosta de discutir sobre tecnologia, compartilhar conhecimento ou colaborar em projetos open-source? Me mande uma mensagem, será um prazer trocar ideias! 😄
