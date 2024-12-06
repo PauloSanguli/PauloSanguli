@@ -1,56 +1,71 @@
-### hello, I am Paulo Sanguli 👋
+# 👋 Olá, eu sou Paulo Sanguli!
 
-<!--
-**PauloSanguli/PauloSanguli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor de Software | Backend | Entusiasta de Arquitetura de Software**
 
-Here are some ideas to get you started:
+📍 Localização: Angola
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Sanguli-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/paulo-sanguli/)  
+[![Email](https://img.shields.io/badge/Email-paulosanguli%40gmail.com-red?style=flat-square&logo=gmail)](mailto:paulosanguli@gmail.com)  
 
------
+---
 
-### About me
+## 🌟 Sobre Mim
 
-I am programer, more concretely, i am a dev junior, i like solve problems, and i like 
-so mutch create things, that the peoples needs.
+Sou um desenvolvedor de software com paixão por **arquitetura de software**, desenvolvimento **backend** e boas práticas de programação como **Clean Code** e **Design Patterns**. Com mais de 5 anos de experiência, trabalhei em diversas áreas, incluindo sistemas de avaliação, microserviços e ferramentas de automação.
 
------
+## 🛠️ Habilidades
 
-<div>
-  <a href="https://github.com/PauloSanguli">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSanguli&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloSanguli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
------
+- Desenvolvimento de APIs escaláveis
+- Arquitetura de Microserviços
+- Integração de sistemas e automação
+- Experiência com banco de dados SQL e NoSQL
+- Test-Driven Development (TDD)
 
-### tools and technologies
+## 🏢 Experiência Profissional
 
-<div>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40" height="40"/>        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>        
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>          
-</div>
+### Horizon
+**Backend Developer** (06/2024 - Presente)  
+- Contribuí para a criação de um sistema integrado com LinkedIn e Outlook.
+- Desenvolvi um serviço externo para validação automática de emails usando Python, RabbitMQ e ChatGPT.
+- Implementei microserviços para sistemas de avaliação de aeronaves seguindo Clean Code.
 
------
+### CAF, NTC
+**Software Developer** (05/2023 - 05/2024)  
+- Desenvolvi backends para sistemas ATM utilizando FastAPI e PostgreSQL.
+- Criei módulos para envio de mensagens em massa e reconhecimento facial em tempo real.
+- Trabalhei em APIs para coleta de dados com Python e Beautiful Soup.
 
-## Learning...
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px" heihgt="40px"/>          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40px" heihgt="40px"/>
-</div>
-          
+### Outras Experiências
+- Defender: Frontend Developer - Criação de um software antivírus com detecção de phishing.
+- Njila Brand: Backend Developer - Sistema de gestão e venda de produtos.
+
+## 🏆 Conquistas
+
+- **Vencedor**, Competição Nacional de Robótica - Angola (2024)
+- Desenvolvedor líder do time "Colégio Árvore da Felicidade", aplicando algoritmos avançados para garantir a vitória.
+
+## 📚 Educação
+
+- **Ensino Médio** (Concluído)
+
+## 🔗 Projetos em Destaque
+
+### [Agregado Familiar API](https://github.com/paulosanguli/agregado-familiar)
+Uma API com reconhecimento facial para gerenciar dados familiares.
+
+### [Sistema de Avaliação de Aeronaves](https://github.com/paulosanguli/aircraft-evaluation)
+Microserviços para avaliação de aeronaves utilizando Clean Code.
+
+---
+
+## 🤝 Vamos Conectar!
+
+Adoro colaborar em projetos desafiadores. Vamos conversar!  
